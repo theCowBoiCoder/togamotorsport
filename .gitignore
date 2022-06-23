@@ -13,3 +13,15 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+
+docker-compose.yml
+
+Dockerfile
+
+mysql/docker-entrypoint-initdb.d/init_db.sql
+
+mysql/my.cnf
+
+nginx/conf.d/
+
+php/
