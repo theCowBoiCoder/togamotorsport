@@ -56,7 +56,7 @@
     </div>
 </div>
 <!-- This example requires Tailwind CSS v2.0+ -->
-<div class="bg-yellow-400">
+<div class="bg-neutral-800">
     <div class="max-w-2xl mx-auto text-center py-16 px-4 sm:py-20 sm:px-6 lg:px-8">
         <h2 class="text-3xl font-extrabold text-white sm:text-4xl">
             <span class="block">Boost your productivity.</span>
