@@ -52,7 +52,7 @@
     </div>
     <div class="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
         <h1 class="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl uppercase">Welcome to Toga Motorsport</h1>
-        <p class="mt-6 text-xl text-indigo-100 max-w-3xl">Mattis amet hendrerit dolor, quisque lorem pharetra. Pellentesque lacus nisi urna, arcu sociis eu. Orci vel lectus nisl eget eget ut consectetur. Sit justo viverra non adipisicing elit distinctio.</p>
+        <p class="mt-6 text-xl text-indigo-100 max-w-3xl">Push yourself to the limit across many different series and events all here at Toga Motorsport</p>
     </div>
 </div>
 <!-- This example requires Tailwind CSS v2.0+ -->
@@ -60,13 +60,66 @@
 <div class="bg-white">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
         <div class="text-center">
-            <h2 class="text-base font-semibold text-indigo-600 tracking-wide uppercase">Pricing</h2>
+            <h2 class="text-base font-semibold text-red-600 tracking-wide uppercase">Pricing</h2>
             <p class="mt-1 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">Take control of your team.</p>
             <p class="max-w-xl mt-5 mx-auto text-xl text-gray-500">Start building for free, then add a site plan to go live. Account plans unlock additional features.</p>
         </div>
     </div>
 </div>
 
+<!-- This example requires Tailwind CSS v2.0+ -->
+<div class="bg-white">
+    <div class="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
+        <div class="grid grid-cols-1 gap-12 lg:grid-cols-3 lg:gap-8">
+            <div class="space-y-5 sm:space-y-4">
+                <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">Meet our leadership</h2>
+                <p class="text-xl text-gray-500">Libero fames augue nisl porttitor nisi, quis. Id ac elit odio vitae elementum enim vitae ullamcorper suspendisse. Vivamus fringilla.</p>
+            </div>
+            <div class="lg:col-span-2">
+                <ul role="list" class="space-y-12 sm:grid sm:grid-cols-2 sm:gap-12 sm:space-y-0 lg:gap-x-8">
+                    <li>
+                        <div class="flex items-center space-x-4 lg:space-x-6">
+                            <img class="w-16 h-16 rounded-full lg:w-20 lg:h-20" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                            <div class="font-medium text-lg leading-6 space-y-1">
+                                <h3>Hayden Sweet</h3>
+                                <p class="text-indigo-600">Founder / All the gear no idea</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="flex items-center space-x-4 lg:space-x-6">
+                            <img class="w-16 h-16 rounded-full lg:w-20 lg:h-20" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                            <div class="font-medium text-lg leading-6 space-y-1">
+                                <h3>Harvey Bates</h3>
+                                <p class="text-indigo-600">Co Founder / All the gear no idea</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="flex items-center space-x-4 lg:space-x-6">
+                            <img class="w-16 h-16 rounded-full lg:w-20 lg:h-20" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                            <div class="font-medium text-lg leading-6 space-y-1">
+                                <h3>Matt Spanton</h3>
+                                <p class="text-indigo-600">Admin / All the gear no idea</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="flex items-center space-x-4 lg:space-x-6">
+                            <img class="w-16 h-16 rounded-full lg:w-20 lg:h-20" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                            <div class="font-medium text-lg leading-6 space-y-1">
+                                <h3>Carl Jewell</h3>
+                                <p class="text-indigo-600">Admin / All the gear no idea</p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!-- More people... -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
 
 </body>
 </html>
